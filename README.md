@@ -4,7 +4,7 @@
 Preentrega2 + DiegoMarinMora 
 
 DeLord es el nombre al proyecto que escogi para presentar en CoderHouse, el cual es un portal web de empleo para diseñadores y desarrolladores web y empresas. 
-DeLord es una web estatica realizada para esta segunda preentrega con HTML, CSS, y bootstrap, diseño responsive para 4 de las 6 pantallas faltando aun la categoria Empleos y Error 404 para ser realizadas como responsive para la tercera entrega. Se utilizo sistema de grillas de bootstrap, flexbox y grid para ser adaptado a las pantallas desktop, tablet y cellphone.
+DeLord es una web estatica realizada para esta segunda preentrega con sus respectivos writing, HTML, CSS, y bootstrap, diseño responsive para 4 de las 6 pantallas faltando aun la categoria Empleos y Error 404 para ser realizadas como responsive para la tercera entrega. Se utilizo sistema de grillas de bootstrap, flexbox y grid para ser adaptado a las pantallas desktop, tablet y cellphone.
 Para la tercer aentrega y entrega final se iran realizando cambios en el proyecto desde su protipo inicial dependiendo de las consignas.
 
 👉Link  </br>
