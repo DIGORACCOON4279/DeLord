@@ -9,4 +9,4 @@ DeLord es una web estatica realizada para esta segunda preentrega con HTML, CSS,
 👉Link  </br>
 💻[Prototipo desktop](https://www.figma.com/proto/uA574xOChxtF5VhNTMiwAX/Delord?page-id=0%3A1&type=design&node-id=32-9&viewport=-818%2C-6106%2C0.4&t=N2PTUORlqXvggZVU-1&scaling=scale-down&starting-point-node-id=32%3A9&mode=design)</br>
 📱[Prototipo cellphone](https://www.figma.com/proto/uA574xOChxtF5VhNTMiwAX/Delord?page-id=172%3A3037&type=design&node-id=176-2189&viewport=1677%2C1687%2C0.34&t=7u2bsnRTLdKVq25E-1&scaling=scale-down&starting-point-node-id=176%3A2189&mode=design)</br>
-🚀[Proyecto]([https://proyecto-mercurio.vercel.app/](https://digoraccoon4279.github.io/DeLord/)https://digoraccoon4279.github.io/DeLord/])
+🚀[Proyecto](https://proyecto-mercurio.vercel.app/](https://digoraccoon4279.github.io/DeLord/)https://digoraccoon4279.github.io/DeLord/)
